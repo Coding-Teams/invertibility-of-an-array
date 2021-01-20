@@ -1,4 +1,7 @@
-
+/*
+roberto santoro - uniba computer science
+invertibility of an array
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
